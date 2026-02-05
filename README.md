@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** `Jayden NGo`
+- **Full Name:** `Jayden Ngo`
 - **CCID:** `jdngo`
 
 ## References and Resources
